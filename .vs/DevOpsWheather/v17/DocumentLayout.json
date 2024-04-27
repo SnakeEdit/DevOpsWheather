@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|solutionrelative:requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|solutionrelative:runserver.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\DevOpsWheather\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74E73445-9939-4C18-88F6-0EC38C616746}|DevOpsWheather.pyproj|solutionrelative:DevOpsWheather\\views.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "runserver.py",
+              "DocumentMoniker": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\runserver.py",
+              "RelativeDocumentMoniker": "runserver.py",
+              "ToolTip": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\runserver.py",
+              "RelativeToolTip": "runserver.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:05:35.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\docker-compose.yml*",
+              "RelativeToolTip": "docker-compose.yml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-04-22T10:08:45.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T10:08:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\main.py*",
+              "RelativeToolTip": "main.py*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:06:04.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\requirements.txt",
+              "RelativeDocumentMoniker": "requirements.txt",
+              "ToolTip": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\requirements.txt",
+              "RelativeToolTip": "requirements.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-22T10:04:21.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "views.py",
+              "DocumentMoniker": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\DevOpsWheather\\views.py",
+              "RelativeDocumentMoniker": "DevOpsWheather\\views.py",
+              "ToolTip": "D:\\Work projects\\Study\\DevOps\\DevOpsWheather\\DevOpsWheather\\views.py",
+              "RelativeToolTip": "DevOpsWheather\\views.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-22T10:04:04.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

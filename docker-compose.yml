@@ -1,0 +1,10 @@
+version: '3'
+services:
+  weather_microservice:
+    build: .
+    ports:
+      - "${PORT:-8000}:8000"
+    environment:
+      - VERSION=${VERSION:-0.1.0}
+      - PORT=${PORT:-8000}
+      - API_KEY=${JNS9HZ9FXJB6G5YRKBL6NDT9X}
